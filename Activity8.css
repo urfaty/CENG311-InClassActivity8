@@ -1,0 +1,15 @@
+input {
+	padding: 6px;
+	font-size: 14px;
+	border-radius: 4px;
+}
+
+input[type="checkbox"], input[type="radio"] {
+	height: 16px;
+	width: 16px;
+}
+
+label {
+	width: 140px;
+	display: inline-block;
+}
